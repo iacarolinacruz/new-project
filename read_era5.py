@@ -1,4 +1,4 @@
-# Start reading information and importation
+# Starting with github
 
 import numpy as np
 
