@@ -1,3 +1,3 @@
 # New project
 
-This is no serious project, this a testing demostration
+This is not serious project, it's just a test
